@@ -1,0 +1,33 @@
+PWManager Open License
+
+Copyright 2025 PWManager team. All rights reserved.
+
+1. Open Source
+
+All software components distributed under the PWManager Open License must be completely open and provided with access to the source code. Any changes, additions or corrections made by the user must be published in the source code repository and made available for use and distribution.
+
+2. Community Support
+
+Each application or program using the PWManager Open License must actively support and develop a community of users and developers. This includes:
+
+Making a forum, chats or other communication channels available to users and developers.
+Maintaining regular updates and patches.
+Responsibility for notifying users of critical errors or vulnerabilities.
+
+3. Open Components
+
+Software distributed under this license must use only open components (libraries, frameworks and other dependencies). If closed components are used, they must be documented and provided to the user with the ability to inspect and change them within the license.
+
+4. Transfer of license and rights to modifications
+
+When transferring the software to other persons or organizations, the transferor must ensure that the recipient complies with all the terms of this license. In case of modification of the source code, the modifications must be available with the same rights as the original code.
+
+5. Prohibited actions
+
+Software licensed under the PWManager Open License may not be used for purposes that are contrary to the principles of openness, free access to code, or community support. This includes:
+
+Placing restrictions on access to the source code or modifications.
+Use of closed or proprietary components that violate the terms of this license.
+Responsibility
+
+The licensee undertakes to bear responsibility for the use, modification and distribution of the software distributed under this license, including any consequences arising from the use or unauthorized modifications.
